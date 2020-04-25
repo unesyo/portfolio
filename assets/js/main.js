@@ -1,142 +1,73 @@
-/**
-* Template Name: Folio - v2.0.1
-* Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-$(document).ready(function() {
+$(window).on('load', function() {
 
-  'use strict';
-
-  // ========================================================================= //
-  //  //SMOOTH SCROLL
-  // ========================================================================= //
-
-  $(document).on("scroll", onScroll);
-
-  $('a[href^="#"]').on('click', function(e) {
-    e.preventDefault();
-    $(document).off("scroll");
-
-    $('a').each(function() {
-      $(this).removeClass('active');
-      if ($(window).width() < 768) {
-        $('.nav-menu').slideUp();
-      }
+    $('.level-bar-inner').each(function() {
+    
+        var itemWidth = $(this).data('level');
+        
+        $(this).animate({
+            width: itemWidth
+        }, 800);
+        
     });
-
-    $(this).addClass('active');
-
-    var target = this.hash,
-      menu = target;
-
-    target = $(target);
-    $('html, body').stop().animate({
-      'scrollTop': target.offset().top - 80
-    }, 500, 'swing', function() {
-      window.location.hash = target.selector;
-      $(document).on("scroll", onScroll);
-    });
-  });
-
-  function onScroll(event) {
-    if ($('.home').length) {
-      var scrollPos = $(document).scrollTop();
-      $('nav ul li a').each(function() {
-        var currLink = $(this);
-        var refElement = $(currLink.attr("href"));
-      });
-    }
-  }
-
-  // ========================================================================= //
-  //  //NAVBAR SHOW - HIDE
-  // ========================================================================= //
-
-  $(window).scroll(function() {
-    var scroll = $(window).scrollTop();
-    if (scroll > 200) {
-      $("#main-nav, #main-nav-subpage").slideDown(700);
-      $("#main-nav-subpage").removeClass('subpage-nav');
-    } else {
-      $("#main-nav").slideUp(700);
-      $("#main-nav-subpage").hide();
-      $("#main-nav-subpage").addClass('subpage-nav');
-    }
-  });
-
-  // ========================================================================= //
-  //  // RESPONSIVE MENU
-  // ========================================================================= //
-
-  $('.responsive').on('click', function(e) {
-    $('.nav-menu').slideToggle();
-  });
-
-  // ========================================================================= //
-  //  Typed Js
-  // ========================================================================= //
-
-  var typed = $(".typed");
-
-  $(function() {
-    var strings = $('.typed-items').text();
-    strings = $('.typed-items').data('typed-person') + ',' + strings;
-    strings = strings.split(',');
-
-    typed.typed({
-      strings: strings,
-      typeSpeed: 100,
-      loop: true,
-    });
-  });
-
-  // ========================================================================= //
-  //  Owl Carousel Services
-  // ========================================================================= //
-
-  $('.services-carousel').owlCarousel({
-    autoplay: true,
-    loop: true,
-    margin: 20,
-    dots: true,
-    nav: false,
-    responsiveClass: true,
-    responsive: {
-      0: {
-        items: 1
-      },
-      768: {
-        items: 2
-      },
-      900: {
-        items: 4
-      }
-    }
-  });
 
 });
 
-// ========================================================================= //
-//  Porfolio isotope and filter
-// ========================================================================= //
-$(window).on('load', function() {
-  var portfolioIsotope = $('.portfolio-container').isotope({
-    itemSelector: '.portfolio-thumbnail',
-    layoutMode: 'fitRows'
-  });
 
-  $('#portfolio-flters li').on('click', function() {
-    $("#portfolio-flters li").removeClass('filter-active');
-    $(this).addClass('filter-active');
+jQuery(document).ready(function($) {
 
-    portfolioIsotope.isotope({
-      filter: $(this).data('filter')
-    });
-  });
 
-  // Initiate venobox (lightbox feature used in portofilo)
-  $(document).ready(function() {
-    $('.venobox').venobox();
-  });
+    /*======= Skillset *=======*/
+    
+    $('.level-bar-inner').css('width', '0');
+    
+    
+    
+    /* Bootstrap Tooltip for Skillset */
+    $('.level-label').tooltip();
+    
+    
+    /* jQuery RSS - https://github.com/sdepold/jquery-rss */
+    
+    $("#rss-feeds").rss(
+    
+        //Change this to your own rss feeds
+        "https://feeds.feedburner.com/TechCrunch/startups",
+        
+        {
+        // how many entries do you want?
+        // default: 4
+        // valid values: any integer
+        limit: 3,
+        
+        // the effect, which is used to let the entries appear
+        // default: 'show'
+        // valid values: 'show', 'slide', 'slideFast', 'slideSynced', 'slideFastSynced'
+        effect: 'slideFastSynced',
+        
+        // will request the API via https
+	    // default: false
+	    // valid values: false, true
+	    ssl: true,
+        
+        // outer template for the html transformation
+        // default: "<ul>{entries}</ul>"
+        // valid values: any string
+        layoutTemplate: "<div class='items'>{entries}</div>",
+        
+        // inner template for each entry
+        // default: '<li><a href="{url}">[{author}@{date}] {title}</a><br/>{shortBodyPlain}</li>'
+        // valid values: any string
+        entryTemplate: '<div class="item"><h3 class="title"><a href="{url}" target="_blank">{title}</a></h3><div><p>{shortBodyPlain}</p><a class="more-link" href="{url}" target="_blank"><i class="fas fa-external-link-alt"></i>Read more</a></div></div>'
+        
+        }
+    );
+    
+    /* Github Calendar - https://github.com/IonicaBizau/github-calendar */
+    new GitHubCalendar("#github-graph", "IonicaBizau");
+    
+    
+    /* Github Activity Feed - https://github.com/caseyscarborough/github-activity */
+    GitHubActivity.feed({ username: "mdo", selector: "#ghfeed" });
+
+
 });
