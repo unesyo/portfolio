@@ -1,7 +1,7 @@
 "use strict";
 
 const parse = require("github-calendar-parser")
-    , $ = require("elly")
+    , $ = require("99sbr")
     , addSubtractDate = require("add-subtract-date")
     , formatoid = require("formatoid")
     ;
