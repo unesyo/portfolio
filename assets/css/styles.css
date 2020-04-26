@@ -65,6 +65,7 @@ a.btn-cta-primary, .btn-cta-primary {
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
+   display: block;
 }
 
 a.btn-cta-primary:hover, .btn-cta-primary:hover {
@@ -79,6 +80,7 @@ a.btn-cta-secondary, .btn-cta-secondary {
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
+   display: block;
 }
 
 a.btn-cta-secondary:hover, .btn-cta-secondary:hover {
@@ -454,46 +456,36 @@ a.dotted-link:hover {
   top: -1px;
 }
 
-/* Testimonials section */
-.testimonials .item {
+
+
+/* Certification section */
+.certification .item {
   margin-bottom: 30px;
 }
 
-.testimonials .item:last-child {
+.certification .item:last-child {
   margin-bottom: 0;
 }
 
-.testimonials .item .quote {
-  color: #666;
+.certification .item .title {
   font-size: 16px;
-  border-left: 5px solid #9fdeb7;
-  padding: 5px 15px;
-  margin-bottom: 15px;
+  margin-top: 0;
 }
 
-.testimonials .item .quote p {
-  margin-bottom: 0;
+.certification .item .university {
+  font-family: "Lato", arial, sans-serif;
+  font-size: 13px;
+  color: #999;
+  font-weight: 600;
+  padding-left: 25px;
 }
 
-.testimonials .item .quote .svg-inline--fa {
-  color: #79d19a;
-  margin-right: 15px;
-}
-
-.testimonials .item .source {
-  font-size: 14px;
-  padding-left: 20px;
+.certification .item .university .year {
+  color: #b0b7bf;
   font-weight: 500;
 }
 
-.testimonials .item .source .name {
-  color: #939ea9;
-  font-weight: 600;
-}
 
-.testimonials .item .source .title {
-  color: #999;
-}
 
 /* Education section */
 .education .item {
