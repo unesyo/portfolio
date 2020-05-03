@@ -31,7 +31,7 @@ jQuery(document).ready(function ($) {
     $("#rss-feeds").rss(
 
         //Change this to your own rss feeds
-        "https://stackoverflow.com/feeds/user/10498119",
+        ["https://stackoverflow.com/feeds/user/10498119","https://datascience.stackexchange.com/feeds/user/95824"],
 
         {
             // how many entries do you want?
