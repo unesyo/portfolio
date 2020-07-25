@@ -34,7 +34,7 @@ module.exports = function GitHubCalendar (container, username, options) {
     container = $(container);
 
     options = options || {};
-    options.summary_text = options.summary_text || `Summary of pull requests, issues opened, and commits made by <a href="https://github.com/${username}" target="blank">@${username}</a>`;
+    options.summary_text = options.summary_text || `Résumé des pull requests, des problèmes ouverts et des validations effectuées par <a href="https://github.com/${username}" target="blank">@${username}</a>`;
 
     if (options.global_stats === false) {
         container.style.minHeight = "175px";
@@ -87,19 +87,19 @@ module.exports = function GitHubCalendar (container, username, options) {
                                       : "Rock - Hard Place"
                   , firstCol = $("<div>", {
                         "class": "contrib-column contrib-column-first table-column"
-                      , html: `<span class="text-muted">Contributions in the last year</span>
+                      , html: `<span class="text-muted">Contributions au cours de la dernière année</span>
                                <span class="contrib-number">${parsed.last_year} total</span>
                                <span class="text-muted">${formatoid(addSubtractDate.subtract(new Date(), 1, "year"), DATE_FORMAT1)} &ndash; ${formatoid(new Date(), DATE_FORMAT1)}</span>`
                     })
                   , secondCol = $("<div>", {
                         "class": "contrib-column table-column"
-                      , html: `<span class="text-muted">Longest streak</span>
+                      , html: `<span class="text-muted">La plus longue série</span>
                                <span class="contrib-number">${parsed.longest_streak} days</span>
                                <span class="text-muted">${longestStreakInfo}</span>`
                     })
                   , thirdCol = $("<div>", {
                         "class": "contrib-column table-column"
-                      , html: `<span class="text-muted">Current streak</span>
+                      , html: `<span class="text-muted">Série actuelle</span>
                                <span class="contrib-number">${parsed.current_streak} days</span>
                                <span class="text-muted">${currentStreakInfo}</span>`
                     })
