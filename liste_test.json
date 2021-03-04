@@ -1,0 +1,16 @@
+{
+    "url":[
+        {
+            "extension":"1",
+            "nom":"µTorrent",
+            "url":"utorrent.com",
+            "type":"Illicite"
+        },
+        {
+            "extension":"1",
+            "nom":"Netflix",
+            "url":"netflix.com",
+            "type":"Licite"
+        }
+        ]
+}
