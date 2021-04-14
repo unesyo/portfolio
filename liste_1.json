@@ -1,0 +1,2536 @@
+{
+    "url": [
+        {
+            "nom": "123rf",
+            "url": "fr.123rf.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "6play",
+            "url": "6play.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "7 Digital",
+            "url": "fr.7digital.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "7switch",
+            "url": "7switch.com/fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "AB1",
+            "url": "ab1.tv/Live-Replay",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "ABU : la bibliothèque universelle",
+            "url": "abu.cnam.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Acast",
+            "url": "acast.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Actes sud",
+            "url": "numerique.librairieactessud.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Action",
+            "url": "actiontv.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Action Max",
+            "url": "BoxTv",
+            "extension": "0",
+            "type": "Licite"
+        },
+        {
+            "nom": "ADN",
+            "url": "animedigitalnetwork.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Adobe Stock",
+            "url": "fr.fotolia.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Aeria Games",
+            "url": "aeriagames.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Alexandrie online",
+            "url": "alexandrie.org",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Allskreen",
+            "url": "allskreen.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Amazon (livre numérique)",
+            "url": "amazon.fr/ebooks-kindle",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Amazon music",
+            "url": "amazon.fr/telecharger-musique-mp3-amazon-music/b?ie=UTF8&node=77196031",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Amazon music unlimited",
+            "url": "amazon.com/gp/dmusic/promotions/AmazonMusicUnlimited",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Amazon prime music",
+            "url": "amazon.fr/music/prime",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Amazon prime reading",
+            "url": "amazon.fr/kindle-dbs/fd/nonprime-pr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Amazon prime vidéo",
+            "url": "primevideo.com/?_encoding=UTF8&sr=1",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Animaux TV",
+            "url": "animauxtv.fr/Default.aspx",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Antstream",
+            "url": "antstream.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Apple Arcade",
+            "url": "apple.com/fr/apple-arcade",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Apple iBooks",
+            "url": "itunes.apple.com/fr/genre/books/id38 ",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Apple music",
+            "url": "apple.com/fr/music",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Apple podcast",
+            "url": "Application",
+            "extension": "0",
+            "type": "Licite"
+        },
+        {
+            "nom": "AppleTV+",
+            "url": "tv.apple.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Art Book Magazine",
+            "url": "artbookmagazine.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Arte boutique",
+            "url": "boutique.arte.tv/homepage.html",
+            "extension": "3",
+            "type": "Licite"
+        },
+        {
+            "nom": "Arte concert",
+            "url": "arte.tv/fr/arte-concert",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Arte Radio",
+            "url": "arteradio.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Arte TV",
+            "url": "arte.tv/fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Athenaeum",
+            "url": "ebook.athenaeum.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Atramenta",
+            "url": "atramenta.net",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Audible",
+            "url": "audible.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Audio Now",
+            "url": "audionow.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Audiolib",
+            "url": "audiolib.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "AutoMoto La Chaîne",
+            "url": "automoto-lachaine.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Bandai Namco Ent",
+            "url": "bandainamcoent.fun/fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Bandcamp",
+            "url": "bandcamp.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Bayday",
+            "url": "bayday.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "BBC World news",
+            "url": "bbc.co.uk/news/world",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Bbox VOD",
+            "url": "IPTV",
+            "extension": "0",
+            "type": "Licite"
+        },
+        {
+            "nom": "Bdbuzz",
+            "url": "bdbuzz.net",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Beatport",
+            "url": "beatport.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "BeINSport",
+            "url": "beinsports.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Benshi ",
+            "url": "benshi.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "BFM Business",
+            "url": "bfmbusiness.bfmtv.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "BFMTV",
+            "url": "bfmtv.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Biblio Manuels",
+            "url": "manuelnumerique.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Bibliothèque de la finance",
+            "url": "bibliotheque.revue-banque.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Bibliothèque de Paris",
+            "url": "bibliotheque-numerique.paris.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Bibliothèque numérique romande ",
+            "url": "ebooks-bnr.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Bibliothèque numérique territoriale",
+            "url": "bnt.execvox.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Bibliothèque réseau francophone numérique",
+            "url": "rfnum-bibliotheque.or",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Bibliothèque russe et slave",
+            "url": "bibliotheque-russe-et-slave.com/index1.html",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Bibliovox",
+            "url": "bibliovox.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Big Fish",
+            "url": "bigfishgames.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Bigstock",
+            "url": "bigstockphoto.com/fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Binge",
+            "url": "binge.audio",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Biosphoto",
+            "url": "biosphoto.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Blackberry",
+            "url": "appworld.blackberry.com/webstore/?",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Blizzard",
+            "url": "blizzard.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Boing",
+            "url": "boingtv.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Book d'oreille",
+            "url": "bookdoreille.com/fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Bookeen",
+            "url": "bookeenstore.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Bookland",
+            "url": "bookland.com/fra",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Boomerang",
+            "url": "boomerangtv.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Booska-P",
+            "url": "booska-p.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Bordas",
+            "url": "editions-bordas.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Bouquineo",
+            "url": "bouquineo.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Bref Cinéma",
+            "url": "brefcinema.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Brouillon de culture",
+            "url": "livresnumeriques.brouillondeculture.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Bynwr",
+            "url": "bynwr.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Cairn",
+            "url": "cairn.info",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Canal VOD",
+            "url": "vod.canalplus.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Canal+ Formula 1",
+            "url": "MyCanal",
+            "extension": "0",
+            "type": "Licite"
+        },
+        {
+            "nom": "Canal+ series",
+            "url": "mycanal.fr/series",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Canstockphoto",
+            "url": "canstockphoto.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Castbox",
+            "url": "castbox.fm",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Chapitre.com",
+            "url": "ebook.chapitre.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Chasse et pêche",
+            "url": "chasseetpechetv.fr/Default.aspx",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Chérie 25",
+            "url": "cherie25.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Chérie FM",
+            "url": "cheriefm.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Chine ancienne",
+            "url": "chineancienne.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Ciné VR",
+            "url": "cinevr.io",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Ciné-archives",
+            "url": "cinearchives.org",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Cinéma(s) à la demande",
+            "url": "cinemasalademande.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Citebd",
+            "url": "librairie.citebd.org",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Cnews",
+            "url": "cnews.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "CNN",
+            "url": "edition.cnn.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Collection RVB",
+            "url": "collectionrvb.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Comixology",
+            "url": "comixology.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Crime district",
+            "url": "crimedistrict.tv",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Crunchyroll",
+            "url": "crunchyroll.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Cultura",
+            "url": "cultura.com/e-books/e-books.html",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Culture TV5 Monde",
+            "url": "culture.tv5monde.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Culturebox",
+            "url": "culturebox.francetvinfo.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Decitre",
+            "url": "decitre.fr/ebook.html",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Deezer",
+            "url": "deezer.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Delitoon",
+            "url": "delitoon.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Demain !",
+            "url": "demain.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Depositphotos",
+            "url": "fr.depositphotos.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Deviantart",
+            "url": "deviantart.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Digibidi",
+            "url": "digibidi.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Discovery VR",
+            "url": "realite-virtuelle.com/partez-decouverte-monde-discovery-vr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Disney+",
+            "url": "disneyplus.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "DLGamer",
+            "url": "dlgamer.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Dramapassion",
+            "url": "dramapassion.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Dreamstime",
+            "url": "fr.dreamstime.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Dunod",
+            "url": "dunod.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "EA Play",
+            "url": "ea.com/fr-fr/ea-play/news/welcome-to-ea-play",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Ebook du livre de poche",
+            "url": "numerique.livredepoche.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "eboxeditions",
+            "url": "eboxeditions.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Ecinema",
+            "url": "e-cinema.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Edilivre",
+            "url": "edilivre.com/librairie.html",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Editions Eni",
+            "url": "editions-eni.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Editions Harlequin",
+            "url": "harlequin.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Editions Hatier",
+            "url": "editions-hatier.fr/offre-numerique",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Editions Larcier",
+            "url": "larciergroup.com/fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Editions Retz",
+            "url": "editions-retz.com/numerique",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Editions Sciences Humaines",
+            "url": "editions.scienceshumaines.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Eeko Podcast",
+            "url": "eeko-podcast.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Efélé",
+            "url": "efele.net/ebooks",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "E-librairie Leclerc",
+            "url": "e-librairie.e-leclerc.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Elsevier Masson",
+            "url": "elsevier-masson.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Elson",
+            "url": "elson.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Emaginaire",
+            "url": "emaginaire.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Emusic",
+            "url": "emusic.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Eole",
+            "url": "eole.avh.asso.fr",
+            "extension": "3",
+            "type": "Licite"
+        },
+        {
+            "nom": "ePagine",
+            "url": "epagine.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "EpicGames",
+            "url": "epicgames.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Epresse.fr",
+            "url": "epresse.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Ernster",
+            "url": "ernster.numilog.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Esperluete",
+            "url": "esperluete.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Euronews",
+            "url": "fr.euronews.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "European Film Factory",
+            "url": "europeanfilmfactory.eu",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Europeana",
+            "url": "europeana.eu",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Eurosport player",
+            "url": "eurosportplayer.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Feedbooks",
+            "url": "fr.feedbooks.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Filmdoo",
+            "url": "filmdoo.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "FilmoTV",
+            "url": "filmotv.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Films pour enfants",
+            "url": "films-pour-enfants.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "FilmsDocumentaires.com",
+            "url": "filmsdocumentaires.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "FIP",
+            "url": "fip.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Fnac",
+            "url": "fnac.com/telecharger-ebook.asp",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Foxplay",
+            "url": "Canal",
+            "extension": "0",
+            "type": "Licite"
+        },
+        {
+            "nom": "France 24",
+            "url": "france24.com/fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "France loisirs",
+            "url": "franceloisirs.com/catalogue/rubrique/EBOOKS/eBooks",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "France musique",
+            "url": "francemusique.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "France TV",
+            "url": "france.tv",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Funradio",
+            "url": "funradio.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Furet du nord",
+            "url": "ebook.furet.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Fuze Forge",
+            "url": "store.fuzeforge.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Gallica",
+            "url": "gallica.bnf.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Game One",
+            "url": "gameone.net",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Gameasy",
+            "url": "gameasy.com/fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Gamesplanet",
+            "url": "fr.gamesplanet.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Géo Télévision",
+            "url": "Amazon Prime",
+            "extension": "0",
+            "type": "Licite"
+        },
+        {
+            "nom": "Gibert joseph",
+            "url": "gibertjoseph.epagine.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Gog.com",
+            "url": "gog.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Golfchannel",
+            "url": "golfchannel.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Google Chrome Web Store",
+            "url": "chrome.google.com/webstore/category/app/3-games",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Google Play",
+            "url": "play.google.com/store",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Google Podcast",
+            "url": "podcasts.google.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Gulli",
+            "url": "svod.gulli.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Gulli Replay",
+            "url": "replay.gulli.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Hachette.fr",
+            "url": "hachette.fr/e-books/tous",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Hardigan",
+            "url": "hardigan.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Harmattan TV",
+            "url": "harmattantv.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Henri",
+            "url": "cinematheque.fr/henri",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Highresaudio",
+            "url": "highresaudio.com/en",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Histoire",
+            "url": "histoire.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Hopster",
+            "url": "Application",
+            "extension": "0",
+            "type": "Licite"
+        },
+        {
+            "nom": "Hotmix Radio",
+            "url": "hotmixradio.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Humano",
+            "url": "humano.com/digital",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "iBibliothèque",
+            "url": "ibibliotheque.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "I-concerts",
+            "url": "iconcerts.stingray.com/fr/US",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Idagio",
+            "url": "idagio.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Imago",
+            "url": "imagotv.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Infinikids",
+            "url": "infinikids.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Inlibroveritas",
+            "url": "inlibroveritas.net",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "IS ebooks",
+            "url": "is-ebooks.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "istockphoto",
+            "url": "francais.istockphoto.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "iTunes",
+            "url": "apple.com/fr/itunes",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "IziBook Eyrolles",
+            "url": "izibook.eyrolles.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Izneo",
+            "url": "izneo.com/fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "J'ai lu (pour elle)",
+            "url": "jailupourelle.com/ebook.html",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "J'aime Lire Store",
+            "url": "boutique-jaimelirestore.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Jamendo",
+            "url": "jamendo.com/fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "JauntVR",
+            "url": "Application",
+            "extension": "0",
+            "type": "Licite"
+        },
+        {
+            "nom": "Jazz Radio",
+            "url": "jazzradio.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Je publie",
+            "url": "jepublie.com/vos-publications.aspx",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Junodownload",
+            "url": "junodownload.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Kidzinmind",
+            "url": "kidzinmind.com/fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "kinoscript",
+            "url": "stvpress.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Kobo",
+            "url": "kobobooks.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Kongregate",
+            "url": "kongregate.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "KTO",
+            "url": "ktotv.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Kwafilms",
+            "url": "kwafilms.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "La bibliothèque d'ebooks",
+            "url": "bibebook.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "La galerne librairie",
+            "url": "lagalerne.com/boutique/36/ebooks-livres-numeriques-electroniques",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "La Toile",
+            "url": "la-toile-vod.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "LaCinetek",
+            "url": "lacinetek.com/fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "La librairie RH",
+            "url": "la-librairie-rh.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "L'alinéa",
+            "url": "livre-numerique.librairielalinea.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Lamartine",
+            "url": "numerique.lamartine.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "L'ange bleu",
+            "url": "numerique.librairielangebleu.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "L'appel du livre",
+            "url": "numerique.appeldulivre.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "L'arbre à lettres",
+            "url": "arbrealettres.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "L'armitière",
+            "url": "armitiere.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Lavoisier",
+            "url": "e.lavoisier.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "LCI",
+            "url": "lci.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "LCP AN",
+            "url": "lcp.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Le Bélial",
+            "url": "belial.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Le Poste Général",
+            "url": "lepostegeneral.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Le serpent qui danse",
+            "url": "leserpentquidanse.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Lecteurs.com",
+            "url": "lecteurs.com/ebooks",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Lekiosk",
+            "url": "get.lekiosk.com/applications-lekiosk",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "L'équipe 21",
+            "url": "lequipe21.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Les beaux titres",
+            "url": "ebook.lesbeauxtitres.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Les éditions Amalthée",
+            "url": "editions-amalthee.com/edition-livre-genre/ebooks",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Les éditions Blanche de Peuterey",
+            "url": "peuterey-editions.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Les éditions du Net",
+            "url": "leseditionsdunet.com/index.php",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Les éditions persée",
+            "url": "editions-persee.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Les libraires",
+            "url": "leslibraires.fr/dossiers/livres-numeriques",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Libération Ebook ",
+            "url": "liberation.fr/bibliotheque",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librairie Antillaise",
+            "url": "librairieantillaise.epagine.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librairie attitude",
+            "url": "livresnumeriques.librairie-attitude.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librairie Autrement",
+            "url": "numerique.sa-autrement.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librairie cheminant",
+            "url": "monlibrairenumerique.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librairie contact",
+            "url": "numerique.librairiecontact.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librairie de paris saint-etienne",
+            "url": "numerique.librairiedeparis.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librairie delamain",
+            "url": "malibrairienumerique.com/ ",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librairie des lois",
+            "url": "librairiedeslois.numilog.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librairie Dialogues",
+            "url": "librairiedialogues.fr/boutique/3/ebooks-livres-numeriques-electroniques",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librairie durance",
+            "url": "ebook.librairiedurance.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librairie filigranes",
+            "url": "filigranes.epagine.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librairie Galignani",
+            "url": "ebook.galignani.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librairie Gallimard",
+            "url": "gallimardnumerique.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librairie Kleber",
+            "url": "numerique.librairie-kleber.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librairie le divan",
+            "url": "leslivresnumeriques.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librairie le failler",
+            "url": "librairielefailler.fr/selec-5368/livres-numeriques",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librairie Le passage alençon",
+            "url": "lepassage.epagine.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librairie Martin-Delbert",
+            "url": "ebook.martin-delbert.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librairie Massena",
+            "url": "numerique.librairiemassena.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librairie Mollat",
+            "url": "numerique.mollat.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librairie Montbarbon",
+            "url": "montbarbon.tea-ebook.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librairie nantes numérique",
+            "url": "librairie-nantes-numerique.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librairie polar",
+            "url": "librairie-polar.numilog.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librairie ryst",
+            "url": "librairie-ryst.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librairie torcatis",
+            "url": "ebook.librairietorcatis.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librairies de paris",
+            "url": "lalibrairienumerique.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librel",
+            "url": "librel.be",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Librinova",
+            "url": "librinova.com/librairie",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Libthèque",
+            "url": "libtheque.fr/index.php",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Lisez !",
+            "url": "lisez.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "litteratureaudio",
+            "url": "litteratureaudio.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Livrespourtous",
+            "url": "livrespourtous.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Lizzie",
+            "url": "lizzie.audio",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "lovemyVOD",
+            "url": "lovemyvod.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Lumni",
+            "url": "cinema.lumni.fr/edutheque",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Madelen INA",
+            "url": "madelen.ina.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Maghreb VOD",
+            "url": "IPTV",
+            "extension": "0",
+            "type": "Licite"
+        },
+        {
+            "nom": "Maison du livre",
+            "url": "numerique.maisondulivre.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Mangadraft",
+            "url": "mangadraft.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Mangas",
+            "url": "mangas.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Matton image",
+            "url": "matton.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "MCS VOD",
+            "url": "Numericable",
+            "extension": "0",
+            "type": "Licite"
+        },
+        {
+            "nom": "Medici.tv",
+            "url": "medici.tv/fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Melody.tv",
+            "url": "melody.tv",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Men's up TV",
+            "url": "mensup.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Meslivresnumeriques",
+            "url": "meslivresnumeriques.be",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Mezzo",
+            "url": "mezzo.tv/fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "MGM",
+            "url": "Amazon Prime",
+            "extension": "0",
+            "type": "Licite"
+        },
+        {
+            "nom": "Microsoft store",
+            "url": "microsoft.com/fr-fr/store",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Modern Score",
+            "url": "modernscore.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Molotov.tv",
+            "url": "molotov.tv",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Montagne TV",
+            "url": "montagnetv.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "MTV",
+            "url": "mtv.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Mubi",
+            "url": "mubi.com/fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Munki",
+            "url": "pro.munki.audio",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Museum",
+            "url": "museumtv.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Musicme",
+            "url": "musicme.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Musopen",
+            "url": "musopen.org/fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Mycanal",
+            "url": "mycanal.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Mycanal Kids",
+            "url": "kids.mycanal.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "MyTF1",
+            "url": "tf1.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "MyTF1VR",
+            "url": "Application",
+            "extension": "0",
+            "type": "Licite"
+        },
+        {
+            "nom": "myZen.tv",
+            "url": "myzen.tv",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Napster",
+            "url": "fr.napster.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Neobook",
+            "url": "neobook.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Netflix",
+            "url": "netflix.com/fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Netflix VR",
+            "url": "Application",
+            "extension": "0",
+            "type": "Licite"
+        },
+        {
+            "nom": "Nintendo eShop",
+            "url": "nintendo.fr/Divers/Nintendo-eShop/Nintendo-eShop-Nintendo-3DS-et-Wii-U-109605.html",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Nokzedoc",
+            "url": "nokzedoc.tv/home",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "NoMadMusic",
+            "url": "nomadmusic.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Non stop people",
+            "url": "non-stop-people.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Nostalgie",
+            "url": "nostalgie.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Noviscore",
+            "url": "noviscore.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "NRJ",
+            "url": "nrj.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "NRJ Play",
+            "url": "nrj12.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Nugs.net",
+            "url": "nugs.net",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Numérique premium",
+            "url": "numeriquepremium.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Numilog",
+            "url": "numilog.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "OCS",
+            "url": "ocs.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "OI Films",
+            "url": "oi-film.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Okidoki",
+            "url": "okidoki-tv.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Okoo",
+            "url": "france.tv/okoo",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "OL Play",
+            "url": "ol.fr/fr-fr/oltv/abonnement",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "OM Prime",
+            "url": "om.fr/fr/om-prime",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Onisep",
+            "url": "librairie.onisep.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Open Culture",
+            "url": "openculture.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Open editions books",
+            "url": "books.openedition.org",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Open editions journal",
+            "url": "journals.openedition.org",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Opus",
+            "url": "opus-foundation.org",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Orange",
+            "url": "jeu.orange.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Origin",
+            "url": "origin.com/fr-fr/store",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Outbuster",
+            "url": "outbuster.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Paradisio",
+            "url": "contact@paradisopodcasts.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Piwi+",
+            "url": "piwiplus.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Pixabay",
+            "url": "pixabay.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Placedeslibraires.fr",
+            "url": "placedeslibraires.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Planetr",
+            "url": "planetr.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Playstation now",
+            "url": "playstation.com/fr-fr/explore/playstation-now",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "PlayStation Store",
+            "url": "sonyentertainmentnetwork.com/fr-fr/playstation-store",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "PlayUp",
+            "url": "playup.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Playzer",
+            "url": "playzer.fr/ ",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Podcut",
+            "url": "podcut.studio",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Primephonic",
+            "url": "primephonic.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Project Gutenberg",
+            "url": "gutenberg.org/browse/languages/fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Public sénat",
+            "url": "publicsenat.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Publie.net",
+            "url": "publie.net",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Publishroom",
+            "url": "communaute.publishroom.com/?type=books",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Qobuz",
+            "url": "qobuz.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Queer Screen",
+            "url": "queerscreen.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Quibi",
+            "url": "quibi.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Quickpartitions",
+            "url": "quickpartitions.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Qwest TV",
+            "url": "qwest.tv",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Radioclassique",
+            "url": "radioclassique.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "RadioFrance",
+            "url": "Application",
+            "extension": "0",
+            "type": "Licite"
+        },
+        {
+            "nom": "RadioFrance",
+            "url": "radiofrance.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "RadioNova",
+            "url": "nova.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Rakuten TV",
+            "url": "fr.rakuten.tv",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "ReplayTV France",
+            "url": "replay-tv-france.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "RMC découverte",
+            "url": "rmcdecouverte.bfmtv.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "RMC story",
+            "url": "rmcstory.bfmtv.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "RTBF Radio",
+            "url": "rtbf.be/radio",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "RTL2",
+            "url": "6play.fr/rtl2",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Ruedespromenades.com",
+            "url": "ruedespromenades.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Salto",
+            "url": "salto.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Sauramps",
+            "url": "sauramps.epagine.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Scenso.tv",
+            "url": "scenso.tv",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Scholar vox",
+            "url": "scholarvox.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Science et vie TV",
+            "url": "science-et-vie.tv/live-replay.aspx",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Scopalto",
+            "url": "scopalto.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Scope image",
+            "url": "scope-image.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Scribd",
+            "url": "fr.scribd.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Sequencity",
+            "url": "sequencity.leclerc/fr-FR",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "SFR (jeu vidéo)",
+            "url": "sfr.fr/jeux-video",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "SFR Play",
+            "url": "sfr.fr/sfrplay",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Shadowz",
+            "url": "shadowz.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Sheet music direct",
+            "url": "sheetmusicdirect.com/fr-FR",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Short éditions",
+            "url": "short-edition.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Shorts TV",
+            "url": "shorts.tv",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Shutterstock",
+            "url": "shutterstock.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Skyrock",
+            "url": "skyrock.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Slash",
+            "url": "france.tv/slash",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Smartlibris",
+            "url": "smartlibris.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "SNCF e-livre",
+            "url": "e-livre.sncf.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Soundcloud",
+            "url": "soundcloud.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Spamflix",
+            "url": "spamflix.com/home.do",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Spicee",
+            "url": "spicee.com/fr/decouvrir",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Spinlet",
+            "url": "spinlet.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Spotify",
+            "url": "spotify.com/fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Spotify Kids",
+            "url": "spotify.com/fr/kids",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Starzplay",
+            "url": "starz.com/fr/fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Steam",
+            "url": "store.steampowered.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Steam VR",
+            "url": "store.steampowered.com/steamvr?l=french",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Stitcher",
+            "url": "stitcher.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Storyplayr",
+            "url": "storyplayr.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Sybel",
+            "url": "sybel.co/fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Taleming",
+            "url": "taleming.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Teletoon+",
+            "url": "teletoonplus.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Tënk",
+            "url": "tenk.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "TFOU Max",
+            "url": "tfoumax.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "TheBook Edition",
+            "url": "thebookedition.com/fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Tidal",
+            "url": "tidal.com/fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Tootak",
+            "url": "tootak.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Toute l'histoire",
+            "url": "toutelhistoire.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Trace play",
+            "url": "traceplay.tv/landing",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Trek",
+            "url": "trekhd.tv/live-replay.aspx",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Tropismes librairies",
+            "url": "tropismes.epagine.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "TV5 Monde",
+            "url": "tv5.org",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "TV5 Monde plus",
+            "url": "tv5mondeplus.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "U-culture",
+            "url": "uculture.fr/e-books.html",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Universciné",
+            "url": "universcine.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "UPblisher",
+            "url": "upblisher.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Uplay",
+            "url": "uplay.ubi.com/fr-FR",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Utomik",
+            "url": "utomik.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Vialma",
+            "url": "vialma.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Vidéo à la demande d'Orange",
+            "url": "video-a-la-demande.orange.fr",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "VidéoClub Carlotta Films",
+            "url": "levideoclub.carlottafilms.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Viki",
+            "url": "viki.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Virgin Radio",
+            "url": "virginradio.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Vivlio",
+            "url": "vivlio.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "VodMediathequenumerique",
+            "url": "vod.mediatheque-numerique.com",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Wakanim",
+            "url": "wakanim.tv",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Wallis photothèque",
+            "url": "wallis.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Watch it !",
+            "url": "watch-it.tv",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Webtoon Factory",
+            "url": "webtoonfactory.com/fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Webtoons.com",
+            "url": "webtoons.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Wikisource",
+            "url": "fr.wikisource.org/wiki/Accueil",
+            "extension": "2",
+            "type": "Licite"
+        },
+        {
+            "nom": "Xbox Game Pass",
+            "url": "xbox.com/fr-FR/xbox-game-pass",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Youboox",
+            "url": "youboox.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Youboox pop",
+            "url": "youbooxpop.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Youscribe",
+            "url": "youscribe.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Youtube music",
+            "url": "youtube.com/musicpremium",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Youtube premium",
+            "url": "youtube.com",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Zphoto",
+            "url": "zphoto.fr",
+            "extension": "1",
+            "type": "Licite"
+        },
+        {
+            "nom": "Zylom",
+            "url": "zylom.com/fr",
+            "extension": "1",
+            "type": "Licite"
+        }
+    ]
+}
